@@ -1,0 +1,32 @@
+{
+  "version" : 3,
+  "project" : {
+    "dataClass" : [
+
+    ],
+    "errors" : [
+
+    ],
+    "timeout" : 30,
+    "version" : "1.0",
+    "authorization" : 0,
+    "author" : "moemeyer",
+    "apiClass" : [
+
+    ],
+    "dataLocale" : "en_US_POSIX",
+    "dataFormat" : "yyyy-MM-dd'T'HH:mm:ssZ",
+    "isManagerSingleton" : false,
+    "globalVariable" : [
+
+    ],
+    "apiType" : 0,
+    "language" : 0,
+    "defaultPrefix" : "WebApi",
+    "enums" : [
+
+    ],
+    "baseURL" : "",
+    "name" : "Brio"
+  }
+}
